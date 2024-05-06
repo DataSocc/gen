@@ -1,0 +1,16 @@
+/workspaces/gen/CleanArchNet.Application/bin/Debug/net8.0/CleanArchNet.Application.deps.json
+/workspaces/gen/CleanArchNet.Application/bin/Debug/net8.0/CleanArchNet.Application.dll
+/workspaces/gen/CleanArchNet.Application/bin/Debug/net8.0/CleanArchNet.Application.pdb
+/workspaces/gen/CleanArchNet.Application/bin/Debug/net8.0/CleanArchNet.Domain.dll
+/workspaces/gen/CleanArchNet.Application/bin/Debug/net8.0/CleanArchNet.Domain.pdb
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.csproj.AssemblyReference.cache
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.AssemblyInfoInputs.cache
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.AssemblyInfo.cs
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.csproj.CoreCompileInputs.cache
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.sourcelink.json
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArc.344F4786.Up2Date
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.dll
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/refint/CleanArchNet.Application.dll
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/CleanArchNet.Application.pdb
+/workspaces/gen/CleanArchNet.Application/obj/Debug/net8.0/ref/CleanArchNet.Application.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CleanArchNet.Api.props" />
+</Project>

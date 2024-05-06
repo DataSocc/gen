@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CleanArchNet.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchNet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchNet.Application.dll": {}
+        }
+      },
+      "CleanArchNet.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchNet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchNet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

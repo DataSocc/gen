@@ -1,0 +1,12 @@
+/workspaces/gen/CleanArchNet.Domain/bin/Debug/net8.0/CleanArchNet.Domain.deps.json
+/workspaces/gen/CleanArchNet.Domain/bin/Debug/net8.0/CleanArchNet.Domain.dll
+/workspaces/gen/CleanArchNet.Domain/bin/Debug/net8.0/CleanArchNet.Domain.pdb
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.AssemblyInfoInputs.cache
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.AssemblyInfo.cs
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.csproj.CoreCompileInputs.cache
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.sourcelink.json
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.dll
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/refint/CleanArchNet.Domain.dll
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/CleanArchNet.Domain.pdb
+/workspaces/gen/CleanArchNet.Domain/obj/Debug/net8.0/ref/CleanArchNet.Domain.dll
