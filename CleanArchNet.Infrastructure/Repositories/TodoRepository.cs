@@ -18,7 +18,7 @@ namespace CleanArchNet.Infrastructure.Repositories
             return await _context.TodoItems.ToListAsync();
         }
 
-        public async Task<TodoItem> GetByIdAsync(Guid id)
+        public async Task<TodoItem?> GetByIdAsync(Guid id)
         {
             return await _context.TodoItems.FindAsync(id);
         }

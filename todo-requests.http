@@ -14,7 +14,7 @@ GET {{baseUrl}} HTTP/1.1
 
 ### Retrieve a single Todo Item by ID
 # Replace `:id` with the actual ID of the Todo item you want to fetch
-GET {{baseUrl}}/:id HTTP/1.1
+GET {{baseUrl}}/7894a862-af68-4737-972b-d5f42103e234 HTTP/1.1
 
 ### Update a Todo Item
 # Replace `:id` with the actual ID of the Todo item you want to update

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchNet.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059dce24267e40c43e149297b413f519d582dd71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6a786b2169a113f2f4448d19291d009c59833b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchNet.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchNet.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,7 +19,7 @@ namespace CleanArchNet.Application.Services
             return await _todoRepository.GetAllAsync();
         }
 
-        public async Task<TodoItem> GetItemByIdAsync(Guid id)
+        public async Task<TodoItem?> GetItemByIdAsync(Guid id)
         {
             return await _todoRepository.GetByIdAsync(id);
         }
